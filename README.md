@@ -1,1 +1,3 @@
-# Terraform
+This repository contains Terraform configuration files to provision an EC2 instance on AWS and a S3 bucket.
+
+This Terraform code sets up an AWS EC2 instance using the specified provider configuration. It defines a variable for customization and configures AWS access credentials. The code then creates an EC2 instance using a predefined Amazon Machine Image (AMI) and a basic instance type (t2.micro). When executed, this will provision the EC2 instance in the specified AWS region (us-east-1).
