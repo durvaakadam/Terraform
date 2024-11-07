@@ -10,4 +10,3 @@ resource "aws_instance" "terraform_sfit"
     ami = "ami-0324a83b82023f0b3"
     instance_type = "t2.micro"
 }
-
