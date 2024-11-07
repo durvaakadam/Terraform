@@ -1,4 +1,4 @@
 variable "Durva"{
     type=string
-    default="this is terraform"
+    default="Hello from terraform"
 }
